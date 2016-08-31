@@ -1,0 +1,19 @@
+{
+  "name": "slack-mudbot",
+  "version": "1.0.0",
+  "description": "A Slack bot that knows all about MajorMUD.",
+  "author": "Ryan Zander <exide@hotmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "homepage": "https://github.com/Exide/slack-mudbot#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Exide/slack-mudbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Exide/slack-mudbot/issues"
+  },
+  "dependencies": {
+    "botkit": "^0.2.2"
+  }
+}
